@@ -1,0 +1,12 @@
+2026-02-12 16:52:57.816 | INFO     | __main__:main:68 - Fetching data from http://www.yes24.com/24/Category/BestSeller
+2026-02-12 16:52:57.838 | INFO     | __main__:main:74 - Parsing book information
+2026-02-12 16:52:57.838 | WARNING  | __main__:main:78 - No books found. The page structure might have changed.
+2026-02-12 16:54:46.462 | INFO     | __main__:main:68 - Fetching data from http://www.yes24.com/24/Category/BestSeller
+2026-02-12 16:54:46.480 | INFO     | __main__:main:78 - Parsing book information
+2026-02-12 16:54:46.481 | WARNING  | __main__:main:82 - No books found. The page structure might have changed.
+2026-02-12 16:55:12.387 | INFO     | __main__:main:71 - Fetching data from http://www.yes24.com/24/Category/BestSeller
+2026-02-12 16:55:13.189 | INFO     | __main__:main:81 - Parsing book information
+2026-02-12 16:55:13.202 | WARNING  | __main__:main:85 - No books found. The page structure might have changed.
+2026-02-12 16:56:45.826 | INFO     | __main__:main:68 - Fetching data from http://www.yes24.com/24/Category/BestSeller
+2026-02-12 16:56:46.582 | INFO     | __main__:main:78 - Parsing book information
+2026-02-12 16:56:46.630 | INFO     | __main__:main:90 - Successfully saved 24 books to yes24/bestsellers.csv
